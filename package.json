@@ -1,0 +1,26 @@
+{
+  "name": "tastebuds",
+  "version": "1.0.0",
+  "description": "TasteBuds project",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/shafrin028/webAPI.git"
+  },
+  "author": "Chamod",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/shafrin028/webAPI/issues"
+  },
+  "homepage": "https://github.com/shafrin028/webAPI#readme",
+  "dependencies": {
+    "bcrypt": "^5.0.1",
+    "cors": "^2.8.5",
+    "express": "^4.18.0",
+    "jsonwebtoken": "^8.5.1",
+    "mongoose": "^6.3.1"
+  }
+}
