@@ -8,14 +8,14 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/shafrin028/webAPI.git"
+    "url": "git+https://github.com/Lahiru-CK97?tab=repositories"
   },
-  "author": "Chamod",
+  "author": "Lahiru-CK97",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/shafrin028/webAPI/issues"
+    "url": "https://github.com/Lahiru-CK97/TasteBuds-Project-BackEnd-Development/issues"
   },
-  "homepage": "https://github.com/shafrin028/webAPI#readme",
+  "homepage": "https://github.com/Lahiru-CK97",
   "dependencies": {
     "bcrypt": "^5.0.1",
     "cors": "^2.8.5",
