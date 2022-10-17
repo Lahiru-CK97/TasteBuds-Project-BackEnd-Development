@@ -32,7 +32,7 @@ router.get('/:restaurantId', async (req, res) => {
 // add restaurants to database
 router.post('/', async (req, res) => {
     try{
-        if(!req.body.restaurantName || !req.body.restaurantAddress || !req.body.contact || !req.body.locationUrl || !req.body.businessType || !req.body.imgUrl || !req.body.contact) {
+        if(!req.body.restaurantName || !req.body.restaurantAddress || !req.body.contact || !req.body.locationUrl || !req.body.businessType) {
             return res.status(404).send("Please fill required fields");
         } 
     

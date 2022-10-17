@@ -4,11 +4,11 @@ const mongoose = require('mongoose');
 const internal = require('stream');
 
 const restaurantsSchema = new mongoose.Schema({
-    restaurantname: String,
-    restaurantaddress: String,
+    restaurantName: String,
+    restaurantAddress: String,
     floor: String,
-    ownername: String,
-    businesstype: String,
+    ownerName: String,
+    businessType: String,
     imgUrl: String,
     locationUrl: String,
     contact: Number,
